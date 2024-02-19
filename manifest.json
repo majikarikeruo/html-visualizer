@@ -3,7 +3,7 @@
   "name": "HTML Visualizer",
   "version": "1.0",
   "description": "Visualize HTML tags on web pages based on their hierarchy.",
-  "permissions": ["activeTab", "<all_urls>"],
+  "permissions": ["activeTab"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
