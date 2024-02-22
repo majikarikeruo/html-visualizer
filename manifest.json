@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "HTML Visualizer",
-  "version": "1.0",
-  "description": "Visualize HTML tags on web pages based on their hierarchy.",
+  "version": "2.0",
+  "description": "HTMLのタグに背景色と枠線をつけるだけのシンプルな拡張機能です。階層ごとに背景色を変更させることで、WebページにおけるHTMLの階層構造を視覚的にわかりやすくします。",
   "permissions": ["activeTab"],
   "action": {
     "default_popup": "popup.html",
